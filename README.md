@@ -26,7 +26,7 @@
 
 **处理结果**
 
-【待插入图片】
+<img src="https://github.com/YukiShiyk/hw4/blob/master/image/中值滤波1.png" width = "300" height = "300" div align=center /><img src="https://github.com/YukiShiyk/hw4/blob/master/image/中值滤波2.png" width = "300" height = "300" div align=center />
 
 **结果分析**
 
@@ -40,7 +40,9 @@
 
 **处理结果**
 
-【待插入图片】
+<img src="https://github.com/YukiShiyk/hw4/blob/master/image/高斯滤波1.png" width = "300" height = "300" div align=center/><img src="https://github.com/YukiShiyk/hw4/blob/master/image/高斯滤波2.png" width = "300" height = "300" div align=center/>
+
+<img src="https://github.com/YukiShiyk/hw4/blob/master/image/高斯滤波3.png" width = "300" height = "300" div align=center/><img src="https://github.com/YukiShiyk/hw4/blob/master/image/高斯滤波4.png" width = "300" height = "300" div align=center/>
 
 **结果分析**
 
@@ -49,6 +51,8 @@
 ### 利用固定方差 sigma=1.5产生高斯滤波器. 附件有产生高斯滤波器的方法； 分析各自优缺点；
 
 此问处理方式及处理结果同问题一第二部分，只不过将高斯分布的sigma值固定为1.5
+<img src="https://github.com/YukiShiyk/hw4/blob/master/image/2.1.png" width = "300" height = "300" div align=center/>
+<img src="https://github.com/YukiShiyk/hw4/blob/master/image/2.2.png" width = "300" height = "300" div align=center/>
 
 **处理结果**
 
@@ -58,7 +62,7 @@
 
 **处理结果**
 
-【待插入图片】
+<img src="https://github.com/YukiShiyk/hw4/blob/master/image/3.1.png" width = "300" height = "300" div align=center/><img src="https://github.com/YukiShiyk/hw4/blob/master/image/3.2.png" width = "300" height = "300" div align=center/>
 
 **结果分析与总结**
 
